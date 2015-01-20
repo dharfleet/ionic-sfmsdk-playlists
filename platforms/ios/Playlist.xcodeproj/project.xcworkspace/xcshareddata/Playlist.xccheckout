@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0A27907-056F-40CD-8568-9A3FC53609D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Playlist</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37CA309116136CC672D4DA530129BFE6D89189BE</key>
+		<string>https://github.com/dharfleet/ionic-sfmsdk-playlists.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Playlist.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37CA309116136CC672D4DA530129BFE6D89189BE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dharfleet/ionic-sfmsdk-playlists.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37CA309116136CC672D4DA530129BFE6D89189BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37CA309116136CC672D4DA530129BFE6D89189BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Playlist</string>
+		</dict>
+	</array>
+</dict>
+</plist>

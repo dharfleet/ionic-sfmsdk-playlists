@@ -5,6 +5,6 @@
     "isLocal": true,
     "startPage": "index.html",
     "errorPage": "error.html",
-    "shouldAuthenticate": true,
+    "shouldAuthenticate": false,
     "attemptOfflineLoad": false
 }

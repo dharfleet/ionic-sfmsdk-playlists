@@ -1,0 +1,10 @@
+{
+    "remoteAccessConsumerKey": "3MVG9Rd3qC6oMalWI6ATCT5yhBpMcSzYDPu5.escUYW9a7e0GYl2v2y4Rxjaf4HFHmIQt1ZiCEnZFMkHfrY5m",
+    "oauthRedirectURI": "testsfdc://login.salesforce.com/services/oauth2/callback",
+    "oauthScopes": ["web", "api"],
+    "isLocal": true,
+    "startPage": "index.html",
+    "errorPage": "error.html",
+    "shouldAuthenticate": true,
+    "attemptOfflineLoad": false
+}
