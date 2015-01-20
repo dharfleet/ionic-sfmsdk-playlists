@@ -1,0 +1,10 @@
+{
+    "remoteAccessConsumerKey": "inseert consumer key here",
+    "oauthRedirectURI": "testsfdc://login.salesforce.com/services/oauth2/callback",
+    "oauthScopes": ["web", "api"],
+    "isLocal": true,
+    "startPage": "index.html",
+    "errorPage": "error.html",
+    "shouldAuthenticate": true,
+    "attemptOfflineLoad": false
+}
